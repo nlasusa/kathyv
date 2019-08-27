@@ -1,0 +1,81 @@
+#memoriamContainer {
+    font-family: 'Satisfy', cursive;
+    font-size: 42px; 
+    background-color: #E9E6F7;
+    opacity: 0.9; 
+    color: black; 
+    margin-top: 40px; 
+    padding: 40px; 
+    border: 3px solid lightgray; 
+}
+
+#memName {
+    color: black;
+    font-size: 60px;  
+}
+
+#imgbox {
+    float: right; 
+    border: 8px solid white; 
+    border-radius: 25px;
+}
+
+
+#memPtitle {
+    font-family: 'Satisfy', cursive;
+    text-align: left;
+    margin-top: 20px; 
+    font-size: 35px; 
+}
+
+#memAuthors {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px; 
+    color: gray;
+}
+
+#memYears {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px; 
+}
+
+#memPoem {
+    background-color: #EAEFEB;
+    opacity: 0.8; 
+    color: black; 
+    margin: 0 auto;
+    text-align: center; 
+    font-size: 22px; 
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#memPtitle2 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 23px; 
+    /* margin-left: 285px;  */
+}
+
+.fa-ellipsis-h {
+    color: lightgray; 
+    font-size: 20px; 
+}
+
+#break {
+    font-size: 30px; 
+}
+
+#memPtitle3 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 27px; 
+    /* margin-left: 285px;  */
+}
+
+#memPtitle4 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 45px; 
+    color: pink; 
+    /* margin-left: 285px;  */
+}
