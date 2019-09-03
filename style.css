@@ -1,5 +1,5 @@
 body {
-    background-color:#031C31; 
+    background-color:#03233B;
 }
 
 #memoriamContainer {
@@ -8,7 +8,7 @@ body {
     background-color: white;
     opacity: 0.95;
     color: #03233B; 
-    margin-top: 60px; 
+    margin-top: 45px; 
     padding: 35px; 
     border: 1px solid lightgray; 
 }
