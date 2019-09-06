@@ -1,5 +1,5 @@
 body {
-    background-color:#042953;
+    background-color:#031E4C;
 }
 
 #memoriamContainer {
@@ -7,8 +7,8 @@ body {
     font-size: 42px; 
     background-color: white;
     color: #03233B; 
-    margin-top: 45px; 
-    padding: 45px; 
+    margin-top: 50px; 
+    padding: 28px; 
     border: 1px solid lightgray; 
     border-radius: 30px; 
 }
@@ -22,6 +22,7 @@ hr { background-color: #89B656; height: 1px; border: 0; }
 
 #imgbox {
     float: right; 
+    margin-right: 15px; 
     border: 10px solid #EBECEF;
     border-radius: 20px; 
     /* transform: rotate(1deg); */
@@ -45,6 +46,7 @@ hr { background-color: #89B656; height: 1px; border: 0; }
 #memYears {
     font-family: 'Open Sans', sans-serif, Arial;
     font-size: 15px; 
+    text-align: justify; 
 }
 
 #memPoem {
@@ -85,4 +87,11 @@ hr { background-color: #89B656; height: 1px; border: 0; }
     font-size: 31px; 
     color: white; 
     /* margin-left: 285px;  */
+}
+
+#yearsTribute { 
+    float: right; 
+    margin-right: 65px; 
+    color: gray; 
+    font-size: 35px; 
 }
