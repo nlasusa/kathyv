@@ -44,6 +44,7 @@ hr { background-color: #89B656; height: 1px; border: 0; }
 #memYears {
     font-family: 'Open Sans', sans-serif, Arial;
     font-size: 15px; 
+    font-weight: bold; 
     text-align: justify; 
 }
 
