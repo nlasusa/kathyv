@@ -22,10 +22,8 @@ hr { background-color: #89B656; height: 1px; border: 0; }
 
 #imgbox {
     float: right; 
-    margin-right: 15px; 
     border: 10px solid #EBECEF;
     border-radius: 20px; 
-    /* transform: rotate(1deg); */
 }
 
 #memPtitle {
@@ -61,7 +59,6 @@ hr { background-color: #89B656; height: 1px; border: 0; }
     font-family: 'Open Sans', sans-serif, Arial;
     text-align: left;
     font-size: 16px; 
-    /* margin-left: 285px;  */
 }
 
 .fa-ellipsis-h {
@@ -78,7 +75,6 @@ hr { background-color: #89B656; height: 1px; border: 0; }
     font-family: 'Open Sans', sans-serif, Arial;
     text-align: center;
     font-size: 16px; 
-    /* margin-left: 285px;  */
 }
 
 #memPtitle4 {
@@ -86,12 +82,11 @@ hr { background-color: #89B656; height: 1px; border: 0; }
     text-align: left;
     font-size: 31px; 
     color: white; 
-    /* margin-left: 285px;  */
 }
 
 #yearsTribute { 
     float: right; 
-    margin-right: 65px; 
+    margin-right: 60px; 
     color: gray; 
     font-size: 35px; 
 }
